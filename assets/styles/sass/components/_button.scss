@@ -11,7 +11,8 @@
         height: 3vh;
         justify-self: center;
         align-self: center;
-        transform: scaleX(-1);
+        transform-origin: center;
+        transition: 1s;
     }
 }
 #btReload:hover{

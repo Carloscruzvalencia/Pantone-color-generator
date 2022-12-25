@@ -31,3 +31,11 @@ function newColor(){
     cardName.innerHTML = n_name;
 
 }
+function reload(){
+    document.getElementById("btImage").style.transform = "rotate(360deg)"
+    document.getElementById("btImage").style.transition = "0.5s"
+    setTimeout(() => {
+        document.getElementById("btImage").style.transform = "rotate(0deg)"
+        document.getElementById("btImage").style.transition = "0s"
+    }, 1000);
+}
