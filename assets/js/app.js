@@ -20,13 +20,8 @@ function newColor(){
     cardHex = document.getElementById("pantoneColorHex")
     cardHex.innerHTML = "#"+finalColor;
     
-
-
-
     var n_match  = ntc.name("#"+finalColor);
-    n_name       = n_match[1]; // This is the text string for the name of the match
-
-    // alert(n_match);
+    n_name       = n_match[1]; 
     cardName = document.getElementById("pantoneColorName")
     cardName.innerHTML = n_name;
 
@@ -38,4 +33,17 @@ function reload(){
         document.getElementById("btImage").style.transform = "rotate(0deg)"
         document.getElementById("btImage").style.transition = "0s"
     }, 500);
+}
+cardNumber = 0
+function cardClone(){
+    if (cardNumber < 3){
+        cardNumber++
+        card = document.getElementById("pantoneCard");
+        tarjetclone = card.cloneNode(true)
+        document.getElementById("pantoneCards").appendChild(tarjetclone)
+        document.getElementById("buttonClone").style.display = "inherit"
+    }
+    if (cardNumber == 3){
+        document.getElementById("buttonClone").style.display = "none"
+    }
 }

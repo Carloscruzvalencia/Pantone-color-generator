@@ -1,22 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
-section {
+#pantoneCards {
     display: grid;
     justify-items: center;
     align-items: center;
     width: 100vw;
     height: 100vh;
-
+    grid-area: 1/1;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     #pantoneCard {
         background-color: white;
-        width: 25vw;
+        width: 22vw;
         height: 60vh;
         box-shadow: -12px 9px 10px grey;
         display: grid;
         justify-items: center;
         #pantoneColor {
             background-color: rgb(17, 174, 148);
-            width: 23vw;
+            width: 21vw;
             height: 40vh;
             justify-self: center;
             align-self: start;

@@ -1,0 +1,32 @@
+#buttonClone {
+    grid-area: 1/1;
+    width: 5vw;
+    height: 10vh;
+    border: none;
+    border-radius: 100%;
+    display: grid;
+    align-self: end;
+    justify-self: center;
+    align-items: center;
+    background-color: rgb(204, 203, 203);
+    transition: 1s;
+    margin-bottom: 3vh;
+    span {
+        color: gray;
+        justify-self: center;
+        align-self: center;
+        width: 5vw;
+        height: 10vh;
+        border-radius: 100%;
+        font-size: 4vw;
+        margin-top: -0.5vw;
+    }
+}
+
+#buttonClone:hover {
+    background-color: rgb(155, 155, 155);
+    cursor: pointer;
+    span:hover {
+        color: white;
+    }
+}
