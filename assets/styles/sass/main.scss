@@ -3,7 +3,8 @@
 
 
 // webpage components
-@use "components/pantone_card.scss";
+@use "components/pantone_card";
+@use "components/button";
 
 // webpage layouts
 @use "layouts/landing";
