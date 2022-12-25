@@ -37,5 +37,5 @@ function reload(){
     setTimeout(() => {
         document.getElementById("btImage").style.transform = "rotate(0deg)"
         document.getElementById("btImage").style.transition = "0s"
-    }, 1000);
+    }, 500);
 }
