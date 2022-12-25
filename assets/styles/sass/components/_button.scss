@@ -1,0 +1,20 @@
+#btReload {
+    border-radius: 100%;
+    border: none;
+    background-color: rgb(221, 217, 217);
+    margin-bottom: 1vh;
+    display: grid;
+    width: 2.5vw;
+    height: 5vh;
+    #btImage {
+        width: 2.5vw;
+        height: 3vh;
+        justify-self: center;
+        align-self: center;
+        transform-origin: center;
+        transition: 1s;
+    }
+}
+#btReload:hover{
+    cursor: pointer;
+}

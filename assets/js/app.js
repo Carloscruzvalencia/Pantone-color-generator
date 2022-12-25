@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+function newColor(){
     letter = ['A', 'B', 'C', 'D', 'E', 'F']
     color = []
     for (i = 0; i != 3; i++) {
@@ -24,21 +24,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
     var n_match  = ntc.name("#"+finalColor);
-    n_rgb        = n_match[0]; // This is the RGB value of the closest matching color
     n_name       = n_match[1]; // This is the text string for the name of the match
-    n_exactmatch = n_match[2]; // True if exact color match, False if close-match
 
     // alert(n_match);
     cardName = document.getElementById("pantoneColorName")
     cardName.innerHTML = n_name;
 
-
-
-
-
-
-    // cards = document.getElementById("pantoneCards")
-
-    // cardClone = document.getElementById("pantoneCard").cloneNode(true)
-    // cards.appendChild(cardClone);
-});
+}
+function reload(){
+    document.getElementById("btImage").style.transform = "rotate(360deg)"
+    document.getElementById("btImage").style.transition = "0.5s"
+    setTimeout(() => {
+        document.getElementById("btImage").style.transform = "rotate(0deg)"
+        document.getElementById("btImage").style.transition = "0s"
+    }, 500);
+}
