@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+section {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+
+    #pantoneCard {
+        background-color: white;
+        width: 25vw;
+        height: 60vh;
+        box-shadow: -12px 9px 10px grey;
+        display: grid;
+        justify-items: center;
+        #pantoneColor {
+            background-color: rgb(17, 174, 148);
+            width: 23vw;
+            height: 40vh;
+            justify-self: center;
+            align-self: start;
+            margin-top: 2vh;
+        }
+        #pantoneTitle{
+            justify-self: start;
+            margin-left: 1vw;
+            font-size: 1.5vw;
+            font-weight: bolder;
+            text-transform: uppercase;
+        }
+        #pantoneColorHex {
+            justify-self: start;
+            margin-left: 1vw;
+            font-size: 1vw;
+            font-weight: bolder;
+            text-transform: uppercase;
+        }
+
+        #pantoneColorName {
+            justify-self: start;
+            margin-left: 1vw;
+            font-size: 1vw;
+            font-weight: bolder;
+        }
+
+    }
+}
