@@ -1,5 +1,5 @@
-# {pTitle}
-
+# Readme not generated working on the project 
+<!-- 
 ## Inpiracion del proyecto & objetivo
 
 -  {pDesc}
@@ -8,9 +8,8 @@ El diseño web se ha creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9k
 
 Puedes visitar el proyecto en [Githubpages]({pUrl})
 
-## Links de interes
-<!-- link a correo -->
-<code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
+## Links de interes -->
+<!-- <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
 <code><a a href="https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1"><img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a></code>
 <code><a a href="https://www.linkedin.com/in/carlos-cruz-valencia-564514162/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
@@ -46,7 +45,7 @@ lenguajes/frameworks usados
 
 Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](./LICENSE) para mas detalles
 
-Este ```README.md``` se a generado con [Readme-gen.py](https://github.com/Carloscruzvalencia/website-project-template/blob/main/Readme-gen.py)
+Este ```README.md``` se a generado con [Readme-gen.py](https://github.com/Carloscruzvalencia/website-project-template/blob/main/Readme-gen.py) -->
 
 <!-- ## !codigo temporal¡
 ## git update code
