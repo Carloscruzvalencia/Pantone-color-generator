@@ -2,10 +2,13 @@
     border-radius: 100%;
     border: none;
     background-color: rgb(221, 217, 217);
-    margin-bottom: 1vh;
+    margin-bottom: 3vh;
     display: grid;
     width: 2.5vw;
     height: 5vh;
+    justify-self: center;
+    grid-area: 1/1;
+    align-self: flex-end;
     #btImage {
         width: 2.5vw;
         height: 3vh;

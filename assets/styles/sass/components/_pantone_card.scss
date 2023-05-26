@@ -1,48 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
-section {
+#pantoneCards {
     display: grid;
-    justify-items: center;
     align-items: center;
     width: 100vw;
     height: 100vh;
+    grid-auto-flow: column;
+    grid-area: 1/1;
 
     #pantoneCard {
-        background-color: white;
-        width: 25vw;
-        height: 60vh;
-        box-shadow: -12px 9px 10px grey;
         display: grid;
         justify-items: center;
-        #pantoneColor {
-            background-color: rgb(17, 174, 148);
-            width: 23vw;
-            height: 40vh;
+        .view {
+            grid-area: 1/1;
+            width: 15vw;
+            height: 75vh;
+        }
+        .pantoneItems{
+            display: grid;
+            grid-auto-flow: column;
+            grid-gap: 1vw;
+            grid-area: 1/1;
             justify-self: center;
-            align-self: start;
-            margin-top: 2vh;
-        }
-        #pantoneTitle{
-            justify-self: start;
-            margin-left: 1vw;
-            font-size: 1.5vw;
-            font-weight: bolder;
-            text-transform: uppercase;
-        }
-        #pantoneColorHex {
-            justify-self: start;
-            margin-left: 1vw;
-            font-size: 1vw;
-            font-weight: bolder;
-            text-transform: uppercase;
-            user-select: inherit !important;
-        }
+            align-self: end;
+            padding-bottom: 1vw;
 
-        #pantoneColorName {
-            justify-self: start;
-            margin-left: 1vw;
-            font-size: 1vw;
-            font-weight: bolder;
+            .textHex {
+                font-size: 1vw;
+                font-weight: bolder;
+                text-transform: uppercase;
+                color: white;
+            }
+    
+            .textColorName {
+                font-size: 1vw;
+                font-weight: bolder;
+                color: white;
+            }
         }
 
     }
