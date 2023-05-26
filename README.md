@@ -1,6 +1,6 @@
 ## Inpiracion del proyecto & objetivo
 
--  En este proyecto, he desarrollado un generador de colores aleatorios que muestra el nombre y el valor hexadecimal de cada color generado. Utilizando las tecnolog�as de JavaScript, HTML, Sass y CSS, he creado una herramienta interactiva que permite a los usuarios explorar una amplia gama de combinaciones crom�ticas. Esta aplicaci�n es especialmente �til para dise�adores, artistas y cualquier persona en busca de inspiraci�n en el mundo del color.
+-  En este proyecto, he desarrollado un generador de colores aleatorios que muestra el nombre y el valor hexadecimal de cada color generado. Utilizando las tecnologías de JavaScript, HTML, Sass y CSS, he creado una herramienta interactiva que permite a los usuarios explorar una amplia gama de combinaciones cromáticas. Esta aplicación es especialmente útil para diseñadores, artistas y cualquier persona en busca de inspiración en el mundo del color.
 
 Puedes visitar el proyecto en [Githubpages](https://carloscruzvalencia.github.io/Pantone-color-generator/)
 
