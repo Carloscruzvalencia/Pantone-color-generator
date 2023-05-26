@@ -1,17 +1,11 @@
-# Readme not generated working on the project 
-<!-- 
 ## Inpiracion del proyecto & objetivo
 
--  En este proyecto, he desarrollado un generador de colores aleatorios que muestra el nombre y el valor hexadecimal de cada color generado. Utilizando las tecnologías de JavaScript, HTML, Sass y CSS, he creado una herramienta interactiva que permite a los usuarios explorar una amplia gama de combinaciones cromáticas. Esta aplicación es especialmente útil para diseñadores, artistas y cualquier persona en busca de inspiración en el mundo del color.
+-  En este proyecto, he desarrollado un generador de colores aleatorios que muestra el nombre y el valor hexadecimal de cada color generado. Utilizando las tecnologï¿½as de JavaScript, HTML, Sass y CSS, he creado una herramienta interactiva que permite a los usuarios explorar una amplia gama de combinaciones cromï¿½ticas. Esta aplicaciï¿½n es especialmente ï¿½til para diseï¿½adores, artistas y cualquier persona en busca de inspiraciï¿½n en el mundo del color.
 
-El diseÃ±o web se ha creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1) por Carlos cruz valencia
+Puedes visitar el proyecto en [Githubpages](https://carloscruzvalencia.github.io/Pantone-color-generator/)
 
-Puedes visitar el proyecto en [Githubpages](https://carloscruzvalencia.github.io/Pantone color generator)
-
-## Links de interes -->
-<!-- <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
-<code><a a href="https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1"><img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a></code>
-<code><a a href="https://www.linkedin.com/in/carlos-cruz-valencia-564514162/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+## Links de interes
+<code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code><code><a a href="https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1"><img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a></code><code><a a href="https://www.linkedin.com/in/carlos-cruz-valencia-564514162/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
 ## Tecnologias usadas
 
@@ -46,17 +40,3 @@ lenguajes/frameworks usados
 Este proyecto estÃ¡ bajo la Licencia (MIT) - mira el archivo [LICENSE.md](./LICENSE) para mas detalles
 
 Este ```README.md``` se a generado con [Readme-gen.py](https://github.com/Carloscruzvalencia/website-project-template/blob/main/Readme-gen.py) -->
-
-<!-- ## !codigo temporalÂ¡
-## git update code
-```shell
-git add -A && git commit -a -m \"update\" && git push
-```
-
-## sass compiler code
-```shell
-sass -w --style compressed static/styles/sass/main.scss static/styles/css/main.css
-``` -->
-
-<!-- emojis  -->
-<!-- https://tutorialmarkdown.com/emojis -->
