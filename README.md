@@ -2,11 +2,11 @@
 <!-- 
 ## Inpiracion del proyecto & objetivo
 
--  {pDesc}
+-  En este proyecto, he desarrollado un generador de colores aleatorios que muestra el nombre y el valor hexadecimal de cada color generado. Utilizando las tecnologías de JavaScript, HTML, Sass y CSS, he creado una herramienta interactiva que permite a los usuarios explorar una amplia gama de combinaciones cromáticas. Esta aplicación es especialmente útil para diseñadores, artistas y cualquier persona en busca de inspiración en el mundo del color.
 
 El diseÃ±o web se ha creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1) por Carlos cruz valencia
 
-Puedes visitar el proyecto en [Githubpages]({pUrl})
+Puedes visitar el proyecto en [Githubpages](https://carloscruzvalencia.github.io/Pantone color generator)
 
 ## Links de interes -->
 <!-- <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
@@ -25,21 +25,21 @@ Programas usados
     
 lenguajes/frameworks usados
 
-{pLang}
+<code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code><code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code><code><img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code><code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img></code>
 
 
 ## Estado del proyecto
 
-|Trabajando en el proyecto|{st1}|
+|Trabajando en el proyecto|:x:|
 | -------------------------- | :----------------: |
-| Web responsive          |{st2}|
-| Hosting                 |{st3}|
-| Hosting disponible      |{st4}|  
-| Dispone de trello       |{st5}| 
+| Web responsive          |:x:|
+| Hosting                 |Githubpages|
+| Hosting disponible      |:heavy_check_mark:|  
+| Dispone de trello       |:x:| 
 
 ## Vista previa del proyecto
 
-{pPreview}
+<img src="./preview.png" width="100%">
 
 ## Licencia
 
